@@ -188,6 +188,11 @@
               <item name="msxo" type="b2602c69:ProjectViewProjectNode" />
               <item name="msxo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="msxo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="msxo" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -340,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540978349968</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="# 主题配置，评论配置2">
+      <created>1540979843846</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1540979843846</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -423,6 +435,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
