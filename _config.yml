@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language:
-timezone:
+title: 牧神国度
+subtitle: 分享MS信息，交流亚文化
+description: BDSM就是这样一场游戏。外界有不少误解，认为它是残暴的、反常的——皮鞭、麻绳、手铐脚镣……其实非也。信任在这场游戏里扮演了重要角色——当信赖战胜伤害，战利品一定是无与伦比的快乐和满足。
+keywords: 字母圈
+author: 张亦可
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-snippet
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
