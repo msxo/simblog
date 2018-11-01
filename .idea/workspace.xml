@@ -2,84 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="406c20d6-2cfb-4133-9ced-638c33617282" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/2018/10/31/开始-自我介绍/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/archives/2018/10/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/archives/2018/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/archives/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm10.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm11.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm12.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm13.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm14.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm15.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm17.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm18.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm19.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm20.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm21.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm21_1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm22.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm22_1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm23.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm23_1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm24.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm24_1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm25.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm26.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm27.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm28.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm29.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm30.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm31.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm33.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm34.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm35.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm36.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm37.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm38.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm7.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm8.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assert/img/sm/sm9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assets/highlight.pack.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assets/tagcanvas.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/assets/valine.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/atom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/content.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/FontAwesome.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/avatar.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/branding.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/head-img.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/loading.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/reward-wepay.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/timeline-clock.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/timeline-dot.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/img/timeline.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/js/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/js/search.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/sitemap.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/嬉笑/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/工具/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/怒骂/index.html" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/public/2018/10/31/开始-自我介绍/index.html" afterPath="$PROJECT_DIR$/public/2018/10/31/开始-自我介绍/index.html" />
+      <change beforePath="$PROJECT_DIR$/public/archives/2018/10/index.html" afterPath="$PROJECT_DIR$/public/archives/2018/10/index.html" />
+      <change beforePath="$PROJECT_DIR$/public/archives/2018/index.html" afterPath="$PROJECT_DIR$/public/archives/2018/index.html" />
+      <change beforePath="$PROJECT_DIR$/public/archives/index.html" afterPath="$PROJECT_DIR$/public/archives/index.html" />
+      <change beforePath="$PROJECT_DIR$/public/content.json" afterPath="$PROJECT_DIR$/public/content.json" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" afterPath="$PROJECT_DIR$/public/sitemap.xml" />
+      <change beforePath="$PROJECT_DIR$/public/嬉笑/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/工具/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/怒骂/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/source/嬉笑/index.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/source/工具/index.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/source/怒骂/index.md" afterPath="" />
       <change beforePath="$PROJECT_DIR$/themes/hexo-theme-snippet" afterPath="$PROJECT_DIR$/themes/hexo-theme-snippet" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/hexo-theme-snippet/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="180">
+              <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -122,6 +62,7 @@
       <find>ava</find>
       <find>avatar</find>
       <find>么么哒</find>
+      <find>encoding</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/source</dir>
@@ -151,10 +92,10 @@
       <list>
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/themes/hexo-theme-snippet/_config.yml" />
         <option value="$PROJECT_DIR$/source/_posts/开始-自我介绍.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/themes/hexo-theme-snippet/_config.yml" />
       </list>
     </option>
   </component>
@@ -259,6 +200,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -269,20 +211,19 @@
             <path>
               <item name="msxo" type="b2602c69:ProjectViewProjectNode" />
               <item name="msxo" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="SearchEverywhereHistoryKey" value="favicon&#9;FILE&#9;file:///Users/meng/Documents/neu/msxo/public/favicon.ico&#10;head-img&#9;FILE&#9;file:///Users/meng/Documents/neu/msxo/public/img/head-img.jpg" />
   </component>
@@ -437,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540979861813</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="# 上传public">
+      <created>1540979930761</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1540979930761</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -448,16 +396,17 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Stack Trace To UML" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32923076" sideWeight="0.502451" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923076" sideWeight="0.50735295" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32923076" sideWeight="0.49754903" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923076" sideWeight="0.49509802" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923076" sideWeight="0.49509802" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32923076" sideWeight="0.49264705" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2389706" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -468,7 +417,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,13 +428,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="# 主题配置，评论配置" />
     <MESSAGE value="# 主题配置，评论配置2" />
-    <option name="LAST_COMMIT_MESSAGE" value="# 主题配置，评论配置2" />
+    <MESSAGE value="# 上传public" />
+    <option name="LAST_COMMIT_MESSAGE" value="# 上传public" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -597,13 +554,6 @@
     <entry file="file://$PROJECT_DIR$/source/categories/sis/hello-sis.md" />
     <entry file="file://$PROJECT_DIR$/source/categories/tool/hello-tool.md" />
     <entry file="file://$PROJECT_DIR$/source/categories/mis/hello-mis.md" />
-    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-snippet/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="58" column="45" lean-forward="true" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/开始-自我介绍.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -614,18 +564,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-779">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="100">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="249">
+          <caret line="79" column="7" lean-forward="false" selection-start-line="79" selection-start-column="7" selection-end-line="79" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/嬉笑/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/怒骂/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-snippet/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding />
         </state>
       </provider>

@@ -78,6 +78,15 @@ theme: hexo-theme-snippet
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
+- type: git
   repository: https://github.com/msxo/msxo.github.io.git
   branch: master
+- type: rsync
+  host: 106.12.201.197
+  user: root
+  root: /root/msxo/
+  port: 22
+  delete: true
+  verbose: true
+  ignore_errors: true
+
