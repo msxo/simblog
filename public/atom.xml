@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-31T08:43:25.342Z</updated>
+  <updated>2018-11-06T06:23:16.823Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JPA OneToMany</title>
+    <link href="http://yoursite.com/2018/11/06/JPA-OneToMany/"/>
+    <id>http://yoursite.com/2018/11/06/JPA-OneToMany/</id>
+    <published>2018-11-06T06:09:05.000Z</published>
+    <updated>2018-11-06T06:23:16.823Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>一对多的逻辑关系 <code>OnetoMany</code>，<code>One</code>作为处理类。<br><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">@OneToMany</span>(cascade = &#123;</span><br><span class="line">    CascadeType.PERSIST,</span><br><span class="line">    CascadeType.MERGE,</span><br><span class="line">    CascadeType.REMOVE</span><br><span class="line">&#125;, orphanRemoval = <span class="keyword">true</span>)</span><br><span class="line"><span class="meta">@JoinColumn</span>(name = <span class="string">"card_configuration_id"</span>)</span><br><span class="line"><span class="keyword">private</span> List&lt;CardStoreConfiguration&gt; cardStoreConfiguration = <span class="keyword">new</span> ArrayList&lt;&gt;();</span><br></pre></td></tr></table></figure></p></blockquote><ul><li>CascadeType.PERSIST 保存</li><li>CascadeType.MERGE  更新</li><li>CascadeType.REMOVE 删除</li><li>orphanRemoval = true 物理删除级联</li><li>orphanRemoval = false 逻辑删除级联</li></ul><hr><blockquote><p><code>card_configuration_id</code> 可以为空。逻辑删除级联时，会将 <code>card_configuration_id</code> 变为null.</p></blockquote><blockquote><p>在 <code>CardStoreConfiguration</code> 不要有 <code>card_configuration_id</code> 对应的字段</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;一对多的逻辑关系 &lt;code&gt;OnetoMany&lt;/code&gt;，&lt;code&gt;One&lt;/code&gt;作为处理类。&lt;br&gt;&lt;figure class=&quot;highlight java&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;
+      
+    
+    </summary>
+    
+      <category term="SpringBoot" scheme="http://yoursite.com/categories/SpringBoot/"/>
+    
+    
+      <category term="JPA" scheme="http://yoursite.com/tags/JPA/"/>
+    
+  </entry>
   
   <entry>
     <title>开始:自我介绍</title>

@@ -31,7 +31,7 @@
     <!--Title-->
 
 
-<title>归档：2018/10 | 牧神国度</title>
+<title>JPA OneToMany | 牧神国度</title>
 
 
     <link rel="alternate" href="/atom.xml" title="牧神国度" type="application/atom+xml">
@@ -126,135 +126,140 @@
     <section class="content-wrap">
         <div class="container">
             <div class="row">
-                <main class="col-md-8 main-content ">
-                    <div id="main">
-     <div class="timebox">
-          <div class="timeline">
-              <ul>
+                <main class="col-md-8 main-content m-post">
+                    <p id="process"></p>
+<article class="post">
+    <div class="post-head">
+        <h1 id="JPA OneToMany">
+            
+	            JPA OneToMany
+            
+        </h1>
+        <div class="post-meta">
+    
+    
+    <span class="categories-meta fa-wrap">
+        <i class="fa fa-folder-open-o"></i>
+        <a href="/categories/SpringBoot">
+            SpringBoot
+        </a>
+    </span>
+    
+
+    
+    <span class="fa-wrap">
+        <i class="fa fa-tags"></i>
+        <span class="tags-meta">
+            
                 
+                    <a href="/tags/JPA" title="JPA">
+                        JPA
+                    </a>
                 
-                    
-                    
-                        
-                            
-                            <h2>2018</h2>
-                        
-                        
-                          <li class="hide">
-                        
-                            <h3>
-                              06<span>11月</span>
-                            </h3>
-                            <a href="/2018/11/06/JPA-OneToMany/" title="JPA OneToMany" target="_blank">JPA OneToMany</a>
-                        </li>
-                    
-                
-                    
-                    
-                        
-                        
-                          <li class="">
-                        
-                            <h3>
-                              31<span>10月</span>
-                            </h3>
-                            <a href="/2018/10/31/开始-自我介绍/" title="开始:自我介绍" target="_blank">开始:自我介绍</a>
-                        </li>
-                    
-                
-              </ul>
-          </div>
-    </div>
+            
+        </span>
+    </span>
+    
+
+    
+        
+        <span class="fa-wrap">
+            <i class="fa fa-clock-o"></i>
+            <span class="date-meta">2018/11/06</span>
+        </span>
+        
+    
 </div>
+
+            
+            
+    </div>
+    
+    <div class="post-body post-content">
+        <blockquote>
+<p>一对多的逻辑关系 <code>OnetoMany</code>，<code>One</code>作为处理类。<br><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">@OneToMany</span>(cascade = &#123;</span><br><span class="line">    CascadeType.PERSIST,</span><br><span class="line">    CascadeType.MERGE,</span><br><span class="line">    CascadeType.REMOVE</span><br><span class="line">&#125;, orphanRemoval = <span class="keyword">true</span>)</span><br><span class="line"><span class="meta">@JoinColumn</span>(name = <span class="string">"card_configuration_id"</span>)</span><br><span class="line"><span class="keyword">private</span> List&lt;CardStoreConfiguration&gt; cardStoreConfiguration = <span class="keyword">new</span> ArrayList&lt;&gt;();</span><br></pre></td></tr></table></figure></p>
+</blockquote>
+<ul>
+<li>CascadeType.PERSIST 保存</li>
+<li>CascadeType.MERGE  更新</li>
+<li>CascadeType.REMOVE 删除</li>
+<li>orphanRemoval = true 物理删除级联</li>
+<li>orphanRemoval = false 逻辑删除级联</li>
+</ul>
+<hr>
+<blockquote>
+<p><code>card_configuration_id</code> 可以为空。逻辑删除级联时，会将 <code>card_configuration_id</code> 变为null.</p>
+</blockquote>
+<blockquote>
+<p>在 <code>CardStoreConfiguration</code> 不要有 <code>card_configuration_id</code> 对应的字段</p>
+</blockquote>
+
+    </div>
+    
+    <div class="post-footer">
+        <div>
+            
+                转载声明：商业转载请联系作者获得授权,非商业转载请注明出处 © <a href="" target="_blank">MSXO</a>
+            
+        </div>
+        <div>
+            
+        </div>
+    </div>
+</article>
+
+<div class="article-nav prev-next-wrap clearfix">
+    
+    
+        <a href="/2018/10/31/开始-自我介绍/" class="next-post btn btn-default" title="开始:自我介绍">
+            <span class="hidden-lg">下一篇</span>
+            <span class="hidden-xs">开始:自我介绍</span><i class="fa fa-angle-right fa-fw"></i>
+        </a>
+    
+</div>
+
+
+    <div id="comments">
+        
+    
+    <div id="vcomments" class="valine"></div>
+    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src="/assets/valine.min.js"></script>
+
+    <script>
+        new Valine({
+            av: AV,
+            el: '#vcomments',
+            appId: 'EYYpU0ItQjc0MkHahOWcXaVP-gzGzoHsz',
+            appKey: 'C2OaMeXh8Bd503Ue9qmc3D9G',
+            placeholder: '说点什么吧',
+            notify: false,
+            verify: false,
+            avatar: 'mm',
+            meta: 'nick,mail'.split(','),
+            pageSize: '10',
+            path: window.location.pathname,
+            lang: 'zh-CN'.toLowerCase()
+        })
+    </script>
+
+
+    </div>
+
+
 
 
 
                 </main>
                 
-                    
-    <aside class="col-md-4 sidebar">
-        
-        
+                    <aside id="article-toc" role="navigation" class="col-md-4">
     <div class="widget">
-        <h3 class="title">搜索</h3>
-        <div id="search-form">
-            <div id="result-mask" class="hide"></div>
-            <div class="search-area">
-                
-                    <input id="search-key" type="search" autocomplete="off" placeholder="搜点什么呢？">
-                    <button type="button" class="search-form-submit" id="search-local">站内搜索</button>
-                
-                
-            </div>
-            <div id="result-wrap" class="hide">
-                <div id="search-result"></div>
-            </div>
-            <div class="hide">
-                <template id="search-tpl">
-                    <div class="item">
-                        <a href="/{path}" title="{title}">
-                            <div class="title">{title}</div>
-                            <div class="content">{content}</div>
-                        </a>
-                    </div>
-                </template>
-            </div>
-        </div>
-    </div>
-
+        <h3 class="title">文章目录</h3>
         
-        
-    <div class="widget">
-        <h3 class="title">网站公告</h3>
-        <div class="notification">
-            <p>
-    欢迎交流呀，我的QQ是 3124696909 .
-</p>
-        </div>
-    </div>
-
-        
-        
-    <div class="widget">
-        <h3 class="title">分类</h3>
-        <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/SpringBoot/"><i class="fa" aria-hidden="true">SpringBoot</i></a><span class="category-list-count">1</span></li></ul>
-    </div>
-
-
-        
-        
-    <div class="widget">
-        <h3 class="title">归档</h3>
-        <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/11/"><i class="fa" aria-hidden="true">2018年11月</i></a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/10/"><i class="fa" aria-hidden="true">2018年10月</i></a><span class="archive-list-count">1</span></li></ul>
-    </div>
-
-
-        
-        
-  <div class="widget">
-    <h3 class="title">标签云</h3>
-    <div class="content tag-cloud">
-        
-            <a href="/tags/JPA/" style="font-size: 10px;">JPA</a>
+            <p>暂无目录</p>
         
     </div>
-  </div>
-
-
-        
-        
-    <div class="widget">
-        <h3 class="title">友链</h3>
-        <div class="content friends-link">
-        
-            <a href="https://hexo.io/zh-cn/" class="fa" target="_blank">Hexo官网</a>
-        
-        </div>
-    </div>
-
-
-        
-    </aside>
+</aside>
 
                 
             </div>
@@ -297,8 +302,6 @@
     </div>
 </div>
 
-
-	<script src="/js/search.js?rev=@@hash"></script>
 
 
 

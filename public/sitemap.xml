@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2018/11/06/JPA-OneToMany/</loc>
+    
+    <lastmod>2018-11-06T06:23:16.823Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/tool/index.html</loc>
     
     <lastmod>2018-11-01T05:40:06.622Z</lastmod>
